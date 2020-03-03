@@ -1,0 +1,22 @@
+{
+  "name": "micalc",
+  "version": "1.0.0",
+  "description": "Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdiegoisaza/micalc.git"
+  },
+  "keywords": [
+    "Calc"
+  ],
+  "author": "Juan Isaza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdiegoisaza/micalc/issues"
+  },
+  "homepage": "https://github.com/jdiegoisaza/micalc#readme"
+}
