@@ -9,3 +9,5 @@ __sonarcloud__ [![Quality Gate Status](https://sonarcloud.io/api/project_badges/
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=jdiegoisaza_micalc&metric=code_smells)](https://sonarcloud.io/dashboard?id=jdiegoisaza_micalc)
 [![Duplicated Lines Density](https://sonarcloud.io/api/project_badges/measure?project=jdiegoisaza_micalc&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=jdiegoisaza_micalc)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=jdiegoisaza_micalccmetric=coverage)](https://sonarcloud.io/dashboard?id=jdiegoisaza_micalc)
+
+__coveralls__[![Coverage Status](https://coveralls.io/repos/github/jdiegoisaza/micalc/badge.svg?branch=master)](https://coveralls.io/github/jdiegoisaza/micalc?branch=master)
