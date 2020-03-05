@@ -8,5 +8,4 @@ __sonarcloud__ [![Quality Gate Status](https://sonarcloud.io/api/project_badges/
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=jdiegoisaza_micalc&metric=sqale_debt_ratio)](https://sonarcloud.io/dashboard?id=jdiegoisaza_micalc)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=jdiegoisaza_micalc&metric=code_smells)](https://sonarcloud.io/dashboard?id=jdiegoisaza_micalc)
 [![Duplicated Lines Density](https://sonarcloud.io/api/project_badges/measure?project=jdiegoisaza_micalc&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=jdiegoisaza_micalc)
-
-__coverage__ [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=jdiegoisaza_micalcc&metric=coverage)](https://sonarcloud.io/dashboard?id=jdiegoisaza_micalc)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=jdiegoisaza_micalccmetric=coverage)](https://sonarcloud.io/dashboard?id=jdiegoisaza_micalc)
