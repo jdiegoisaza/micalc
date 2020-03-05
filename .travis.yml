@@ -1,10 +1,11 @@
 language: node_js
-	node_js: 
-	 - "6" 
-	jdk:
-	  - oraclejdk8
-	addons:
-	  sonarcloud: true
-	script:
-	
-	  - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.organization=dbotia-github -Dsonar.projectKey=micalc -Dsonar.sources='./app' -X
+node_js: 
+ - "6" 
+jdk:
+  - oraclejdk8
+addons:
+  sonarcloud: true
+script:
+  - npm run cover
+  - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.organization=dbotia-github -Dsonar.projectKey=micalc -Dsonar.sources='./app' -X
+  
