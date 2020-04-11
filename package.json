@@ -23,7 +23,7 @@
   "homepage": "https://github.com/jdiegoisaza/micalc#readme",
   "dependencies": {
     "chai": "^4.2.0",
-    "coveralls": "^3.0.9",
+    "coveralls": "^3.0.11",
     "istanbul": "^0.4.5",
     "mocha": "^7.1.0",
     "save-dev": "0.0.1-security"
