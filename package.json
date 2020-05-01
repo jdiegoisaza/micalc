@@ -6,7 +6,9 @@
   "scripts": {
     "test": "mocha",
     "cover": "istanbul cover ./node_modules/mocha/bin/_mocha",
-    "coveralls": "npm run cover -- --report lcovonly && cat ./coverage/lcov.info | coveralls"
+    "coveralls": "npm run cover -- --report lcovonly && cat ./coverage/lcov.info | coveralls",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -26,10 +28,12 @@
     "coveralls": "^3.0.9",
     "istanbul": "^0.4.5",
     "mocha": "^7.1.0",
-    "save-dev": "0.0.1-security"
+    "save-dev": "0.0.1-security",
+    "snyk": "^1.316.1"
   },
   "directories": {
     "test": "test"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "snyk": true
 }
